@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130983045726",
+    "project_id": "crafthub-challange-l91su2",
+    "storage_bucket": "crafthub-challange-l91su2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130983045726:android:4c76269d4b301f0be6a2cf",
+        "android_client_info": {
+          "package_name": "com.mycompany.crafthubchallange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYW6fGgt5e_6uY9saM_ULPAcgT3UzjEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

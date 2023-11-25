@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDQQPK8bCn085_O_87L20BcZ8kgKsIwbHw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130983045726</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.crafthubchallange</string>
+	<key>PROJECT_ID</key>
+	<string>crafthub-challange-l91su2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crafthub-challange-l91su2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130983045726:ios:1f6ab92568f39bade6a2cf</string>
+</dict>
+</plist>
